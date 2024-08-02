@@ -1,0 +1,13 @@
+pub mod register;
+pub mod courses_list;
+pub mod login;
+pub mod course_info;
+pub mod course_material;
+pub mod home;
+pub mod my_courses;
+pub mod material_creation;
+pub mod profile_info;
+pub mod users_page;
+pub mod admin_courses;
+pub mod course_edit;
+pub mod certificates;
